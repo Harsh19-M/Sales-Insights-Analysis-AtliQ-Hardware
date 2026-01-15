@@ -31,7 +31,6 @@ I apologize I was unable to publish the Power BI report online due to lack of a 
 
 </details>
 
-[View Power BI Report in Person](#) <!-- The report can be launched/opened up and viewed in person when needed. -->
 
 **Executive Presentation Deck:** [View Google Slides](https://docs.google.com/presentation/d/1e68ZcCHOzPbsdyf8bYjK0_WDwdPrHvC-m7F55FYTLYE/present)  
 **Full Case Study Below ↓**
