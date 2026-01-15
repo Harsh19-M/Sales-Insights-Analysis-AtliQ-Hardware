@@ -14,7 +14,7 @@ This dashboard uncovers hidden insights behind declining company sales despite a
 **SQL(MySQL)** | **Power BI - Dashboard Tools & DAX** | **Data Modeling** | **ETL** | **Data Cleaning** | **Business Analysis**
 
 
-**Dashboard:**  I apologize I was unable to publish the Power BI report online due to lack of a work email. The report can be viewed in person if needed.
+**Dashboard:**  I apologize I was unable to publish the Power BI report online due to lack of a work email. The report can be opened/launched and viewed in person when needed.
 
 <details>
   <summary><b>3 Pages of Dashboard Screenshots (Click to Expand)</b></summary>
