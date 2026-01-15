@@ -14,6 +14,7 @@ This dashboard uncovers hidden insights behind declining company sales despite a
 **SQL(MySQL)** | **Power BI - Dashboard Tools & DAX** | **Data Modeling** | **ETL** | **Data Cleaning** | **Business Analysis**
 
 
+**Executive Presentation Deck:** [View Google Slides](https://docs.google.com/presentation/d/1e68ZcCHOzPbsdyf8bYjK0_WDwdPrHvC-m7F55FYTLYE/present)  
 **Dashboard:** I apologize I was unable to publish the Power BI report online due to lack of a work email. The report can be opened/launched and viewed in person when needed.
 
 <details>
@@ -30,7 +31,6 @@ This dashboard uncovers hidden insights behind declining company sales despite a
 
 </details>
 
-**Executive Presentation Deck:** [View Google Slides](https://docs.google.com/presentation/d/1e68ZcCHOzPbsdyf8bYjK0_WDwdPrHvC-m7F55FYTLYE/present)  
 **Full Case Study Below ↓**
 
 
