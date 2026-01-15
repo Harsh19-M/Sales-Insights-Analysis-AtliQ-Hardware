@@ -20,7 +20,8 @@ This dashboard uncovers hidden insights behind declining company sales despite a
   <summary><b>3 Pages of Dashboard Screenshots (Click to Expand)</b></summary>
 
   **Page 1:**  
-  ![Sales Insight Analysis - Page 1](https://github.com/user-attachments/assets/0ce79d17-f0d0-48e3-8b9e-4e9717c592ea)
+  ![Sales Insight Analysis - Page 1](![Sales Insight Analysis - (Page 1)Screenshot 2026-01-15 161701](https://github.com/user-attachments/assets/1a3b307c-c393-4326-8267-4b8d1b316ee6)
+)
 
   **Page 2:**  
   ![Sales Insight Analysis - Page 2](https://github.com/user-attachments/assets/4dc67739-5ccf-4b90-adb3-8cccc6358808)
