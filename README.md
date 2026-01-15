@@ -15,7 +15,7 @@ This dashboard uncovers hidden insights behind declining company sales despite a
 
 
 **Executive Presentation Deck:** [View Google Slides](https://docs.google.com/presentation/d/1e68ZcCHOzPbsdyf8bYjK0_WDwdPrHvC-m7F55FYTLYE/present)  
-**Dashboard:** I apologize I was unable to publish the Power BI report online due to lack of a work email. Can open/launch it and view in person when needed.
+**Dashboard:** I was unable to publish the Power BI report online due to lack of a work email. Can open/launch it and view in person.
 
 <details>
   <summary><b>3 Pages of Dashboard Screenshots (Click to Expand)</b></summary>
