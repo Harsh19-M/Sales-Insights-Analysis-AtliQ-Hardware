@@ -14,10 +14,12 @@ This dashboard uncovers hidden insights behind declining company sales despite a
 **SQL(MySQL)** | **Power BI - Dashboard Tools & DAX** | **Data Modeling** | **ETL** | **Data Cleaning** | **Business Analysis**
 
 
-**Live Dashboard:** [View Power BI Report](![Sales Insight Analysis - (Page 1)Screenshot 2026-01-15 161701](https://github.com/user-attachments/assets/0ce79d17-f0d0-48e3-8b9e-4e9717c592ea) ![Sales Insight Analysis - (Page 2)Screenshot 2026-01-15 161701](https://github.com/user-attachments/assets/4dc67739-5ccf-4b90-adb3-8cccc6358808)![Sales Insight Analysis - (Page 3)Screenshot 2026-01-15 161701](https://github.com/user-attachments/assets/1caff170-d511-49cb-ae02-3fb6fff2d06c)
+**Dashboard:** I Apologize I was unable to publish Power BI report - No work email. I will be able to open it in Person.
+<details> <summary><b> 3 Pages of Dashboard Screenshots (Click to Expand)</b></summary> 
 
+[View Power BI Report](![Sales Insight Analysis - (Page 1)Screenshot 2026-01-15 161701](https://github.com/user-attachments/assets/0ce79d17-f0d0-48e3-8b9e-4e9717c592ea) ![Sales Insight Analysis - (Page 2)Screenshot 2026-01-15 161701](https://github.com/user-attachments/assets/4dc67739-5ccf-4b90-adb3-8cccc6358808)![Sales Insight Analysis - (Page 3)Screenshot 2026-01-15 161701](https://github.com/user-attachments/assets/1caff170-d511-49cb-ae02-3fb6fff2d06c))
+<details>
 
- )  
 **Executive Presentation Deck:** [View Google Slides](https://docs.google.com/presentation/d/1e68ZcCHOzPbsdyf8bYjK0_WDwdPrHvC-m7F55FYTLYE/present)  
 **Full Case Study Below ↓**
 
