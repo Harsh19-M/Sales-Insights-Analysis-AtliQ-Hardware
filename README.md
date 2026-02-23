@@ -15,7 +15,7 @@ A **Data-Driven Business Intelligence Project** analyzing AtliQ Hardware’s (Mo
 **SQL(MySQL)** | **Power BI - Dashboard Tools & DAX** | **Data Modeling** | **ETL** | **Data Cleaning** | **Business Analysis**
 
 
-**Dashboard:** https://drive.google.com/file/d/1YtE8Ob_Cl0iSSbAYxz4BeOkIUAb4tnxC/preview
+**Dashboard:** [View Dashboard Reports]https://drive.google.com/file/d/1YtE8Ob_Cl0iSSbAYxz4BeOkIUAb4tnxC/preview
 
 </details>
 
